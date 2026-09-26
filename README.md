@@ -1,16 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Frontend+Engineer;Web3+%7C+AI+%7C+Build+tooling;React+%7C+TypeScript+%7C+LLMs" alt="Typing SVG" />
-
 ### Hey, I'm Amin 👋
-
 Senior Frontend Engineer learning to work with my AI counterparts 🤖
-
-<a href="https://aminlimbada.dev"><img src="https://img.shields.io/badge/Portfolio-aminlimbada.dev-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amin-limbada/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/aminlimbada"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/1368671/loxator"><img src="https://img.shields.io/badge/Stack%20Overflow-Answers-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-
 </div>
 
 <br/>
